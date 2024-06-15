@@ -22,5 +22,5 @@
 ## Contributing
 We welcome contributions from the community! If you would like to contribute to QSync, please fork the repository, make your changes, and submit a pull request. Your contributions will help improve the tool and expand its capabilities.
 
-##License
+## License
 SimQPair is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License, making it open-source and freely available for modification and distribution.
